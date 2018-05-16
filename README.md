@@ -1,4 +1,3 @@
-ud120-projects
-==============
-
-Starter project code for students taking Udacity ud120
+FINAL PROJECT
+-------------------------------------------------------------------------------------------------------------------------------
+USING MACHINE LEARNING TO FIND FRAUDS AND POI's IN ENRON DATASET
